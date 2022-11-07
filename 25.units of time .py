@@ -1,0 +1,8 @@
+s=int(input('enter seconds'))
+D=s//(24*60*60)
+d=s%(24*60*60)
+H=d//(60*60)
+h=d%(60*60)
+M=h//(60)
+m=h%(60)
+print(D,H,M,m,sep=(':'))

@@ -1,0 +1,21 @@
+n=int(input('enter amount:'))
+t=n//2000
+n1=n%2000
+f=n1//500
+n2=n1%500
+tw=n2//200
+n3=n2%200
+h=n3//100
+n4=n3%100
+ft=n4//50
+n5=n4%50
+tt=n5//20
+n6=n5%20
+ten=n6//10
+n7=n6%10
+five=n7//5
+n8=n7%5
+one=n8//1
+n9=n8%1
+print(f,tw,h,ft,tt,ten,five,one,end=(','))
+print('no of two thousnd notes',t)

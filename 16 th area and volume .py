@@ -1,0 +1,5 @@
+r=float(input('readig a redius:'))
+b=(3.14)*(r**2)
+c=(4/3)*3.14*(r**3)
+print('area of circle  is',b)
+print('volume of circle is',c)
