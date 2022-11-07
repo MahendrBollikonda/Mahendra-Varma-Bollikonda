@@ -1,0 +1,7 @@
+print('mahendra,')
+print('1-19,')
+print('arugolanupeta,')
+print('chatrai,')
+print('eluru,')
+print('521214,')
+print('andharapradhesh.')

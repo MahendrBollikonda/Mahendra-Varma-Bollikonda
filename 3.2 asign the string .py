@@ -1,0 +1,2 @@
+myfavword='python'
+print(myfavword)
